@@ -20,7 +20,7 @@ body{
     color: lime;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 500px) {
     #clock{
         font-size: 2rem;
     }
