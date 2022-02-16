@@ -19,3 +19,9 @@ body{
     font-size: 5rem;
     color: lime;
 }
+
+@media (max-width: 300px) {
+    #clock{
+        font-size: 2rem;
+    }
+}
